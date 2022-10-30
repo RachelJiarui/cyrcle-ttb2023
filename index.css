@@ -1,0 +1,29 @@
+.friend {
+    text-align: center;
+    display: inline-block;
+    padding: 150px;
+    color: white;
+}
+
+.like {
+    text-align: right;
+}
+
+.not-like-btn{
+    padding: 20px;
+    border-radius: 10px;
+    border-style: none;
+    color: rgb(127, 82, 10);
+}
+
+.like-btn{
+    padding: 20px;
+    border-radius: 10px;
+    border-style: none;
+    color: rgb(127, 82, 10);
+}
+
+#container {
+    background-color: rgb(170, 110, 13);
+    height:100vh;
+}
